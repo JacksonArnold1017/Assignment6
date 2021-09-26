@@ -1,4 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
 *{
     margin: 0;
     padding: 0%;
+}
+
+#header{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+    
+    
+
+   
+}
+
+#undertitle{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+}
+
+body{
+    background: rgb(62,27,189);
+background: linear-gradient(90deg, rgba(62,27,189,1) 0%, rgba(91,116,194,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+body{
+    font-size: 20px;
+}
+
+.p1{
+    padding: 40px;
+    
+}
+#header1{
+margin-left: 25px;
+
 }
